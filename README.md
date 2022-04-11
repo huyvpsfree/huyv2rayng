@@ -1,7 +1,7 @@
 
 ⭕ click vào đây để tạo v2ray  
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/freev2rayng/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/huyvpsfree/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 
